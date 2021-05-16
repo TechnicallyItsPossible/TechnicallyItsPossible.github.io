@@ -405,6 +405,128 @@ button:hover {
     transition: all 0.5s;
 }
 
+.service-item-skills-html {
+    margin: 20px;
+    padding: 70px;
+    border-radius: 25px;
+    background-image: url(/assets/images/h.png);
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    transition: all 0.5s;
+}
+.service-item-skills-css {
+    margin: 20px;
+    padding: 70px;
+    border-radius: 25px;
+    background-image: url(/assets/images/css-3.png);
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    transition: all 0.5s;
+}
+.service-item-skills-javascript {
+    margin: 20px;
+    padding: 70px;
+    border-radius: 25px;
+    background-image: url(/assets/images/js.png);
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    transition: all 0.5s;
+}
+.service-item-skills-sql {
+    margin: 20px;
+    padding: 70px;
+    border-radius: 25px;
+    background-image: url(/assets/images/sql.png);
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    transition: all 0.5s;
+}
+.service-item-skills-flutter {
+    margin: 20px;
+    padding: 70px;
+    border-radius: 25px;
+    background-image: url(/assets/images/flutter.png);
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    transition: all 0.5s;
+}
+
+.service-item-skills-android {
+    margin: 20px;
+    padding: 70px;
+    border-radius: 25px;
+    background-image: url(/assets/images/android.png);
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    transition: all 0.5s;
+}
+.service-item-skills-firebase {
+    margin: 20px;
+    padding: 70px;
+    border-radius: 25px;
+    background-image: url(/assets/images/firebase.png);
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    transition: all 0.5s;
+}
+.service-item-skills-linux {
+    margin: 20px;
+    padding: 70px;
+    border-radius: 25px;
+    background-image: url(/assets/images/linux.png);
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    transition: all 0.5s;
+}
+.service-item-skills-git {
+    margin: 20px;
+    padding: 70px;
+    border-radius: 25px;
+    background-image: url(/assets/images/github.png);
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    transition: all 0.5s;
+}
+.service-item-skills-java {
+    margin: 20px;
+    padding: 70px;
+    border-radius: 25px;
+    background-image: url(/assets/images/java.png);
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    transition: all 0.5s;
+}
+.service-item-skills-adobexd {
+    margin: 20px;
+    padding: 70px;
+    border-radius: 25px;
+    background-image: url(/assets/images/adobexd.png);
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    transition: all 0.5s;
+}
+.service-item-skills-canva {
+    margin: 20px;
+    padding: 70px;
+    border-radius: 25px;
+    background-image: url(/assets/images/canva.png);
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    transition: all 0.5s;
+}
+
 .service-item h4 {
     transition: all 0.5s;
 }
